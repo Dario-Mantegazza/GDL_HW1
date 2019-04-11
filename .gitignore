@@ -50,3 +50,7 @@ MoNet/ChebNet\.ipynb
 GAT/utils/__init__\.py
 
 GAT/pre_trained/cora/
+
+MoNet/MoNet-checkpoint\.ipynb
+
+MoNet/data_mnist/
