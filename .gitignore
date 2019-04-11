@@ -48,3 +48,5 @@ GAT/CORA_GCN\.ipynb
 MoNet/ChebNet\.ipynb
 
 GAT/utils/__init__\.py
+
+GAT/pre_trained/cora/
